@@ -1,0 +1,13 @@
+C:\Users\Shreyas.Hingarh\source\repos\Stacks\StacksProgram\StacksProgram\bin\Debug\netcoreapp3.1\StacksProgram.exe
+C:\Users\Shreyas.Hingarh\source\repos\Stacks\StacksProgram\StacksProgram\bin\Debug\netcoreapp3.1\StacksProgram.deps.json
+C:\Users\Shreyas.Hingarh\source\repos\Stacks\StacksProgram\StacksProgram\bin\Debug\netcoreapp3.1\StacksProgram.runtimeconfig.json
+C:\Users\Shreyas.Hingarh\source\repos\Stacks\StacksProgram\StacksProgram\bin\Debug\netcoreapp3.1\StacksProgram.runtimeconfig.dev.json
+C:\Users\Shreyas.Hingarh\source\repos\Stacks\StacksProgram\StacksProgram\bin\Debug\netcoreapp3.1\StacksProgram.dll
+C:\Users\Shreyas.Hingarh\source\repos\Stacks\StacksProgram\StacksProgram\bin\Debug\netcoreapp3.1\StacksProgram.pdb
+C:\Users\Shreyas.Hingarh\source\repos\Stacks\StacksProgram\StacksProgram\obj\Debug\netcoreapp3.1\StacksProgram.csprojAssemblyReference.cache
+C:\Users\Shreyas.Hingarh\source\repos\Stacks\StacksProgram\StacksProgram\obj\Debug\netcoreapp3.1\StacksProgram.AssemblyInfoInputs.cache
+C:\Users\Shreyas.Hingarh\source\repos\Stacks\StacksProgram\StacksProgram\obj\Debug\netcoreapp3.1\StacksProgram.AssemblyInfo.cs
+C:\Users\Shreyas.Hingarh\source\repos\Stacks\StacksProgram\StacksProgram\obj\Debug\netcoreapp3.1\StacksProgram.csproj.CoreCompileInputs.cache
+C:\Users\Shreyas.Hingarh\source\repos\Stacks\StacksProgram\StacksProgram\obj\Debug\netcoreapp3.1\StacksProgram.dll
+C:\Users\Shreyas.Hingarh\source\repos\Stacks\StacksProgram\StacksProgram\obj\Debug\netcoreapp3.1\StacksProgram.pdb
+C:\Users\Shreyas.Hingarh\source\repos\Stacks\StacksProgram\StacksProgram\obj\Debug\netcoreapp3.1\StacksProgram.genruntimeconfig.cache

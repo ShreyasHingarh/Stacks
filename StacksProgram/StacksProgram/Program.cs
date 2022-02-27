@@ -6,7 +6,14 @@ namespace StacksProgram
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Stack<int> stack = new Stack<int>();
+            for(int i = 0;i < 31; i++)
+            {
+                stack.Push(i);
+                
+            }
+            ;
+
         }
     }
 }
