@@ -6,14 +6,19 @@ namespace StacksProgram
     {
         static void Main(string[] args)
         {
-            Stack<int> stack = new Stack<int>();
-            for(int i = 0;i < 31; i++)
+            StackWithLinkedList<int> stack = new StackWithLinkedList<int>();
+            for(int i = 0;i < 31;i++)
             {
                 stack.Push(i);
-                
+                Console.WriteLine(stack.Peek());
             }
-            ;
-
+            Console.WriteLine();
+            for(int i = 0;i < 15;i++)
+            {
+                Console.WriteLine(stack.Pop());
+            }
+            Console.WriteLine();
+            Console.WriteLine(stack.Peek());
         }
     }
 }

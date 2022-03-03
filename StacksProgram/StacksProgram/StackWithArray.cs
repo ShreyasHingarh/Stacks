@@ -4,12 +4,12 @@ using System.Text;
 
 namespace StacksProgram
 {
-    class Stack<T>
+    class StackWithArray<T>
     {
         public int Count { get; private set; }
         private T[] data;
 
-        public Stack(int capacity = 10)
+        public StackWithArray(int capacity = 10)
         {
             data = new T[capacity];
         }
@@ -23,13 +23,24 @@ namespace StacksProgram
             Count++;
         }
        // add pop
+        public T Pop()
+        {
+            if(Count == 0)
+            {
+                throw new Exception("NO ITEMS IN THE STACK!!!!!!!!!!!!!!!!!!!");
+            }
+
+            T temp = data[Count - 1];
+            Count--;
+            return temp;
+        }
         public T Peek() 
         {
             if (Count == 0)
             {
                 throw new Exception("NO ITEMS IN THE STACK!!!!!!!!!!!!!!!!!!!");   
             }
-            return data[data.Length - 1];
+            return data[Count - 1];
         }
         private void Resize(int size) 
         {
